@@ -488,6 +488,8 @@ Since the core of modern agents is large language models, deeply understanding t
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 2 Reference Answers](./Chapter2-Reference-Answers.md).
+
 > **Note**: Some of the following exercises do not have standard answers, aiming to help learners establish systematic understanding of agent development history and cultivate "learning from history" technical insight.
 
 1. The Physical Symbol System Hypothesis<sup>[1]</sup> is the theoretical cornerstone of the symbolicism era. Please analyze:
@@ -560,4 +562,3 @@ Since the core of modern agents is large language models, deeply understanding t
 [9] SILVER D, HUANG A, MADDISON C J, ed. Mastering the game of Go with deep neural networks and tree search[J]. Nature, 2016, 529(7587): 484-489.
 
 [10] LETTA. The AI agents stack[EB/OL]. (2024-11) [2025-09-07]. https://www.letta.com/blog/ai-agents-stack.
-

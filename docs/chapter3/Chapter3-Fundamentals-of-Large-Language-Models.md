@@ -943,6 +943,8 @@ This chapter's LLM foundations mainly help everyone better understand large mode
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 3 Reference Answers](./Chapter3-Reference-Answers.md).
+
 1. In natural language processing, language models have evolved from statistical to neural network models.
 
    - Please use the mini corpus provided in this chapter (`datawhale agent learns`, `datawhale agent works`) to calculate the probability of the sentence `agent works` under the Bigram model
@@ -1008,4 +1010,3 @@ This chapter's LLM foundations mainly help everyone better understand large mode
 [13] Christiano, P., Leike, J., Brown, T. B., Martic, M., Legg, S., & Amodei, D. (2017). Deep reinforcement learning from human preferences. *arXiv preprint arXiv:1706.03741*.
 
 [14] Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goswami, N., ... & Kiela, D. (2020). Retrieval-augmented generation for knowledge-intensive NLP tasks. In *Advances in neural information processing systems* (pp. 9459-9474).
-

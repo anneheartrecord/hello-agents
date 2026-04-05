@@ -570,6 +570,8 @@ Through this chapter's learning, we have established a foundational cognitive fr
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 1 Reference Answers](./Chapter1-Reference-Answers.md).
+
 > **Note**: Some of the following exercises do not have standard answers. The focus is on cultivating learners' critical in-depth thinking and hands-on practical abilities regarding agent systems.
 
 1. Please analyze whether the **subject** in the following four `cases` qualifies as an agent. If so, what type of agent does it belong to (can be analyzed from multiple classification dimensions), and explain your reasoning:
