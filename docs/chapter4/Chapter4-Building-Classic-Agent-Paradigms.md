@@ -1240,6 +1240,8 @@ At this point, we have mastered the core technologies for building individual ag
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 4 Reference Answers](./Chapter4-Reference-Answers.md).
+
 > **Note**: Some exercises do not have standard answers; the focus is on cultivating learners' comprehensive understanding and practical ability in agent paradigm design.
 
 1. This chapter introduced three classic agent paradigms: `ReAct`, `Plan-and-Solve`, and `Reflection`. Please analyze:
@@ -1305,4 +1307,3 @@ At this point, we have mastered the core technologies for building individual ag
 [2] Wang L, Xu W, Lan Y, et al. Plan-and-solve prompting: Improving zero-shot chain-of-thought reasoning by large language models[J]. arXiv preprint arXiv:2305.04091, 2023.
 
 [3] Shinn N, Cassano F, Gopinath A, et al. Reflexion: Language agents with verbal reinforcement learning[J]. Advances in Neural Information Processing Systems, 2023, 36: 8634-8652.
-

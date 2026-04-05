@@ -2704,6 +2704,8 @@ In the next chapter, we will explore how to apply the HelloAgents framework to a
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 12 Reference Answers](./Chapter12-Reference-Answers.md).
+
 > **Hint**: Some exercises have no standard answers, focusing on cultivating learners' comprehensive understanding and practical ability in agent performance evaluation.
 
 1. This chapter introduced multiple agent evaluation benchmarks. Please analyze:

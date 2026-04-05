@@ -2037,6 +2037,8 @@ In the next chapter, we will continue to explore how to further improve the dial
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 8 Reference Answers](./Chapter8-Reference-Answers.md).
+
 > **Note**: Some exercises do not have standard answers. The focus is on cultivating learners' comprehensive understanding and practical ability of memory systems and RAG technology.
 
 1. This chapter introduced four memory types: working memory, episodic memory, semantic memory, and perceptual memory. Please analyze:

@@ -2109,6 +2109,8 @@ Next, we will explore together how to add RAG systems and Memory mechanisms to t
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 7 Reference Answers](./Chapter7-Reference-Answers.md).
+
 1. This chapter built the `HelloAgents` framework and explained "why we need to build our own Agent framework." Please analyze:
 
    - Section 7.1.1 mentioned four main limitations of current mainstream frameworks. Combined with your actual experience using a framework in [Chapter 6 exercises](../chapter6/第六章%20框架开发实践.md#习题) or actual projects, explain how these problems affect development efficiency.

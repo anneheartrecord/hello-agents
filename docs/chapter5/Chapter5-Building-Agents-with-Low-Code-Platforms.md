@@ -994,6 +994,8 @@ In the next chapter, we will further explore more underlying agent frameworks to
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 5 Reference Answers](./Chapter5-Reference-Answers.md).
+
 1. This chapter introduces three distinctive low-code platforms: `Coze`, `Dify`, and `n8n`. Please analyze:
 
    - What are the differences in core positioning and design philosophy among these three platforms? What pain points in agent development do they respectively solve?
@@ -1058,4 +1060,3 @@ In the next chapter, we will further explore more underlying agent frameworks to
 [2] Dify - Open-source LLM application development platform. https://dify.ai/
 
 [3] n8n - Workflow automation tool. https://n8n.io/
-

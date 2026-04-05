@@ -2654,6 +2654,8 @@ We hope this chapter helps you understand and master Agentic RL technology, appl
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 11 Reference Answers](./Chapter11-Reference-Answers.md).
+
 > **Note**: Some exercises do not have standard answers; the focus is on cultivating learners' comprehensive understanding and practical ability in Agentic RL and agent training.
 
 1. This chapter introduced the evolution from LLM training to Agentic RL. Please analyze:

@@ -2395,6 +2395,8 @@ You now have mastered the core knowledge of agent communication protocols. Keep 
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 10 Reference Answers](./Chapter10-Reference-Answers.md).
+
 > **Note**: Some exercises do not have standard answers. The focus is on cultivating learners' comprehensive understanding and practical ability in agent communication protocols.
 
 1. This chapter introduced three agent communication protocols: MCP, A2A, and ANP. Please analyze:

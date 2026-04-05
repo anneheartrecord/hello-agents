@@ -1304,6 +1304,8 @@ In the next chapter, we will enter the core content of this tutorial, building o
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 6 Reference Answers](./Chapter6-Reference-Answers.md).
+
 1. This chapter introduced four distinctive agent frameworks: `AutoGen`, `AgentScope`, `CAMEL`, and `LangGraph`. Please analyze:
 
    - In Table 6.1 of Section 6.1.2, multiple dimensions of these four frameworks were compared. Please select the two frameworks you are most familiar with and further compare them in depth from three dimensions: "collaboration mode," "control method," and "applicable scenarios."
@@ -1354,4 +1356,3 @@ In the next chapter, we will enter the core content of this tutorial, building o
 [4] LangChain. LangGraph [EB/OL]. (2024). https://github.com/langchain-ai/langgraph.
 
 [5] Microsoft. AutoGen - UserProxyAgent [EB/OL]. (2024). https://microsoft.github.io/autogen/stable/reference/python/autogen_agentchat.agents.html#autogen_agentchat.agents.UserProxyAgent.
-

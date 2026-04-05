@@ -2768,6 +2768,8 @@ In the next chapter, we will explore agent communication protocols and learn how
 
 ## Exercises
 
+> Reference answers are for reference only. See [Chapter 9 Reference Answers](./Chapter9-Reference-Answers.md).
+
 > **Note**: Some exercises do not have standard answers. The focus is on cultivating learners' comprehensive understanding and practical ability in context engineering and long-horizon task management.
 
 1. This chapter introduced the difference between context engineering and prompt engineering. Please analyze:
